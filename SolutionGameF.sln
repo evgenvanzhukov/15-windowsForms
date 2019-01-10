@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardF", "BoardF\BoardF.csproj", "{A761EE29-6CAF-443F-A431-6F33F3884F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardFTests", "BoardFTests\BoardFTests.csproj", "{AFDD6056-8D2B-4057-8E9F-6BBD98BDA74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowGameF", "WindowGameF\WindowGameF.csproj", "{8486A26F-7A81-43D0-A691-416676F0608C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A761EE29-6CAF-443F-A431-6F33F3884F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A761EE29-6CAF-443F-A431-6F33F3884F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A761EE29-6CAF-443F-A431-6F33F3884F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A761EE29-6CAF-443F-A431-6F33F3884F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDD6056-8D2B-4057-8E9F-6BBD98BDA74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDD6056-8D2B-4057-8E9F-6BBD98BDA74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDD6056-8D2B-4057-8E9F-6BBD98BDA74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDD6056-8D2B-4057-8E9F-6BBD98BDA74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8486A26F-7A81-43D0-A691-416676F0608C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8486A26F-7A81-43D0-A691-416676F0608C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8486A26F-7A81-43D0-A691-416676F0608C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8486A26F-7A81-43D0-A691-416676F0608C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA2AB32-8560-41E4-AA31-D75BAC943CC3}
+	EndGlobalSection
+EndGlobal

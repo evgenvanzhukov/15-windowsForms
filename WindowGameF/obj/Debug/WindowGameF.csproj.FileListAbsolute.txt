@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.exe
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.pdb
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csprojAssemblyReference.cache
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.FormGameF.resources
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.Properties.Resources.resources
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.GenerateResource.cache
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.exe
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.pdb
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\bin\Debug\BoardF.dll
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\bin\Debug\BoardF.pdb
+C:\Users\1\source\repos\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\SolutionGameF\BoardF\bin\Debug\BoardF.dll
+C:\Users\1\source\repos\SolutionGameF\BoardF\bin\Debug\BoardF.pdb
+C:\Users\1\source\repos\SolutionGameF\BoardF\obj\Debug\BoardF.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SolutionGameF\BoardF\obj\Debug\BoardF.dll
+C:\Users\1\source\repos\SolutionGameF\BoardF\obj\Debug\BoardF.pdb
+C:\Users\1\source\repos\SolutionGameF\BoardF\obj\Debug\BoardF.csprojAssemblyReference.cache
